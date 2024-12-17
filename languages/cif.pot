@@ -1,0 +1,198 @@
+# Copyright (C) 2024 Georgi Bogdanov
+# This file is distributed under the same license as the WooCommerce Checkout Invoice Fields plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Checkout Invoice Fields 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-checkout-invoice-fields\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-23T05:25:02+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: woo-cif\n"
+
+#. Plugin Name of the plugin
+#: woo-checkout-invoice-fields.php
+msgid "WooCommerce Checkout Invoice Fields"
+msgstr ""
+
+#. Description of the plugin
+#: woo-checkout-invoice-fields.php
+msgid "Adds custom invoice fields to WooCommerce order admin pages."
+msgstr ""
+
+#. Author of the plugin
+#: woo-checkout-invoice-fields.php
+msgid "Georgi Bogdanov"
+msgstr ""
+
+#. Author URI of the plugin
+#: woo-checkout-invoice-fields.php
+msgid "https://gbogdanov.com/"
+msgstr ""
+
+#: includes/functions.php:7
+msgid "Woo CIF Settings"
+msgstr ""
+
+#: includes/functions.php:15
+msgid "Woo custom invoice fields settings"
+msgstr ""
+
+#: includes/functions.php:20
+msgid "Invoice information emails"
+msgstr ""
+
+#: includes/functions.php:21
+msgid "Enter emails separated by commas"
+msgstr ""
+
+#: includes/functions.php:27
+msgid "Send Email"
+msgstr ""
+
+#: includes/functions.php:28
+msgid "Enable sending email for the invoice information"
+msgstr ""
+
+#: includes/functions.php:71
+#: includes/functions.php:82
+#: includes/functions.php:308
+msgid "Invoice info:"
+msgstr ""
+
+#: includes/functions.php:73
+#: includes/functions.php:83
+msgid "Company name"
+msgstr ""
+
+#: includes/functions.php:74
+#: includes/functions.php:85
+msgid "MOL"
+msgstr ""
+
+#: includes/functions.php:75
+#: includes/functions.php:87
+msgid "VAT"
+msgstr ""
+
+#: includes/functions.php:76
+#: includes/functions.php:89
+#: includes/functions.php:148
+msgid "DDS"
+msgstr ""
+
+#: includes/functions.php:77
+#: includes/functions.php:91
+msgid "Address"
+msgstr ""
+
+#: includes/functions.php:78
+#: includes/functions.php:93
+msgid "City"
+msgstr ""
+
+#: includes/functions.php:96
+msgid "save"
+msgstr ""
+
+#: includes/functions.php:112
+msgid "I want invoice"
+msgstr ""
+
+#: includes/functions.php:121
+msgid "Company name <abbr class=\"required\" title=\"Required\">*</abbr>"
+msgstr ""
+
+#: includes/functions.php:130
+msgid "MOL <abbr class=\"required\" title=\"Required\">*</abbr>"
+msgstr ""
+
+#: includes/functions.php:139
+msgid "VAT <abbr class=\"required\" title=\"Required\">*</abbr>"
+msgstr ""
+
+#: includes/functions.php:157
+msgid "City <abbr class=\"required\" title=\"Required\">*</abbr>"
+msgstr ""
+
+#: includes/functions.php:166
+msgid "Address <abbr class=\"required\" title=\"Required\">*</abbr>"
+msgstr ""
+
+#: includes/functions.php:203
+msgid "Invoice details has been changed by "
+msgstr ""
+
+#: includes/functions.php:225
+#: includes/functions.php:233
+msgid "Company name is required field"
+msgstr ""
+
+#: includes/functions.php:226
+msgid "MOL is required field"
+msgstr ""
+
+#: includes/functions.php:227
+#: includes/functions.php:235
+msgid "VAT is required field"
+msgstr ""
+
+#: includes/functions.php:228
+#: includes/functions.php:236
+msgid "Company city is required field"
+msgstr ""
+
+#: includes/functions.php:229
+#: includes/functions.php:237
+msgid "Company address is required field"
+msgstr ""
+
+#: includes/functions.php:261
+msgid "Invoice info"
+msgstr ""
+
+#: includes/functions.php:263
+#: includes/functions.php:314
+msgid "Company name:"
+msgstr ""
+
+#: includes/functions.php:267
+#: includes/functions.php:321
+msgid "MOL:"
+msgstr ""
+
+#: includes/functions.php:271
+#: includes/functions.php:328
+msgid "VAT:"
+msgstr ""
+
+#: includes/functions.php:275
+#: includes/functions.php:335
+msgid "DDS:"
+msgstr ""
+
+#: includes/functions.php:279
+#: includes/functions.php:342
+msgid "City:"
+msgstr ""
+
+#: includes/functions.php:282
+#: includes/functions.php:348
+msgid "Address:"
+msgstr ""
+
+#: includes/functions.php:369
+msgid "Invoice information for order from "
+msgstr ""
+
+#: includes/functions.php:373
+msgid "See the order"
+msgstr ""
+
+#: includes/functions.php:375
+msgid "Client email: "
+msgstr ""
